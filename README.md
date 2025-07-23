@@ -1,4 +1,6 @@
-
+- 📝 [Blog](marianogappa.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marianolopezgappa/)
+- 🐦 [Twitter](https://x.com/MarianoGappa)
 
 <!--
 **marianogappa/marianogappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
