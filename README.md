@@ -1,4 +1,4 @@
-- 📝 [Blog](marianogappa.github.io)
+- 📝 [Blog](https://marianogappa.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marianolopezgappa/)
 - 🐦 [Twitter](https://x.com/MarianoGappa)
 
